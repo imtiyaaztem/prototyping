@@ -1,0 +1,23 @@
+prototyping 
+
+advantages
+users can really feel the product 
+
+Test the usability of the product to find problems
+
+Easy to communicate with users, leaders and other relevant people
+
+Improve the efficiency of product design 
+
+
+
+
+disadvantages
+
+Time-consuming with great expense, especially when you in the tight budget.
+
+Prototype design may constrain the designer's ideas, the more you design, the smaller space available to the designer. It may decrease the designer's enthusiasm. If you don’t require much design capability, you can’t design high fidelity prototype.
+
+If the designer's knowledge is limited, it may not be possible to estimate the difficulty degree of implementation and will cause unlimited development time. 
+
+ 
